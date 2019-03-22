@@ -1,4 +1,4 @@
-## Welcome to GitHub --- 전선생 저녁 먹으러 가자 !!!
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/hongjaepark/hongjaepark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
