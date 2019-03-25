@@ -1,14 +1,28 @@
 # Site settings
+
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-KR"
+title                    : "Site Title-타이틀"
+title_separator          : "-"
+name                     : "hongjae park"
+description              : "sample website."
+url                      : "https://hongjaepark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
+#title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+email: hongjae.park@gmail.com
+brand: hongjaepark
 headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+#url: "http://example.com" # the base hostname & protocol for your site
+copyright: 2019 Hong Jae Park. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -17,7 +31,7 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
+email: hongjae.park@gmail.com
 phone: +1-800-555-2016
 
 # Tracking
