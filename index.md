@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - site : 지킬로 빌드된 블로그 내용들
 - assets : 이미지파일, js파일, css파일들 
 - config.yml : 블로그 생성에 필요한 config가 적힌 파일들 
---------------------------------------------------------
+
 
 ### Markdown ???
 
