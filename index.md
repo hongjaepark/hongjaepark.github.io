@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/hongjaepark/hongjaepark.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### 디렉터리 구조를 간략히 살펴보면
+
+# includes : 블로그 삽입 html
+# layouts : 블로그 레이아웃 html
+# posts : 블로그 컨텐츠들
+# sass : css 파일들
+# site : 지킬로 빌드된 블로그 내용들
+* assets : 이미지파일, js파일, css파일들 *
+* config.yml : 블로그 생성에 필요한 config가 적힌 파일들 *
+
 ### Markdown ???
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
